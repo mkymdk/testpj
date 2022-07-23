@@ -1,4 +1,4 @@
-namae = input ('あなたの名前を入力してください:')
+namae = input ('あなたの名前を入力して:')
 shintyo = input ('あなたの身長は何センチですか?:')
 shintyo = float ( shintyo ) 
 weight = input ('あなたの体重は何キログラムですか?:')
